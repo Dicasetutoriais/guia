@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="BR. | AE">
+    <display-name lang="pt">BR. | AE</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR. | Canal Brasil SD">
+    <display-name lang="pt">BR. | Canal Brasil SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR. | Canal Rural SD">
+    <display-name lang="pt">BR. | Canal Rural SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR. | TV Climatempo SD">
+    <display-name lang="pt">BR. | TV Climatempo SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BR. | TV Escola SD">
+    <display-name lang="pt">BR. | TV Escola SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200806171200 -0300" stop="20200806180000 -0300" channel="BR. | AE">
+    <title lang="pt">Acumuladores Compulsivos</title>
+  </programme>
+  <programme start="20200806180000 -0300" stop="20200806193500 -0300" channel="BR. | AE">
+    <title lang="pt">Gamer</title>
+  </programme>
+  <programme start="20200806193500 -0300" stop="20200806203000 -0300" channel="BR. | AE">
+    <title lang="pt">Até Que a Morte Nos Separe</title>
+  </programme>
+  <programme start="20200806203000 -0300" stop="20200806212000 -0300" channel="BR. | AE">
+    <title lang="pt">NCIS: Nova Orleans</title>
+  </programme>
+  <programme start="20200806212000 -0300" stop="20200806220500 -0300" channel="BR. | AE">
+    <title lang="pt">Cold Case</title>
+  </programme>
+  <programme start="20200806220500 -0300" stop="20200806225500 -0300" channel="BR. | AE">
+    <title lang="pt">Cold Case</title>
+  </programme>
+  <programme start="20200806225500 -0300" stop="20200807002500 -0300" channel="BR. | AE">
+    <title lang="pt">Sem Lei</title>
+  </programme>
+  <programme start="20200806162000 -0300" stop="20200806174500 -0300" channel="BR. | Canal Brasil SD">
+    <title lang="pt">De Menor</title>
+  </programme>
+  <programme start="20200806174500 -0300" stop="20200806180500 -0300" channel="BR. | Canal Brasil SD">
+    <title lang="pt">Curta na Tela: Dá Licença de Contar</title>
+  </programme>
+  <programme start="20200806180500 -0300" stop="20200806194500 -0300" channel="BR. | Canal Brasil SD">
+    <title lang="pt">É Tudo Verdade: Adoniran, Meu Nome é João Rubinato</title>
+  </programme>
+  <programme start="20200806194500 -0300" stop="20200806200000 -0300" channel="BR. | Canal Brasil SD">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20200806200000 -0300" stop="20200806203000 -0300" channel="BR. | Canal Brasil SD">
+    <title lang="pt">Lama dos Dias</title>
+  </programme>
+  <programme start="20200806203000 -0300" stop="20200806220000 -0300" channel="BR. | Canal Brasil SD">
+    <title lang="pt">Amor, Plástico e Barulho</title>
+  </programme>
+  <programme start="20200806220000 -0300" stop="20200807000000 -0300" channel="BR. | Canal Brasil SD">
+    <title lang="pt">João, O Maestro</title>
+  </programme>
+  <programme start="20200806164500 -0300" stop="20200806183500 -0300" channel="BR. | Canal Rural SD">
+    <title lang="pt">Champion Saúde Animal</title>
+  </programme>
+  <programme start="20200806183500 -0300" stop="20200806193000 -0300" channel="BR. | Canal Rural SD">
+    <title lang="pt">Rural Notícias</title>
+  </programme>
+  <programme start="20200806193000 -0300" stop="20200806200000 -0300" channel="BR. | Canal Rural SD">
+    <title lang="pt">De Bem Com a Comida</title>
+  </programme>
+  <programme start="20200806200000 -0300" stop="20200806203000 -0300" channel="BR. | Canal Rural SD">
+    <title lang="pt">Pecuária em Foco</title>
+  </programme>
+  <programme start="20200806203000 -0300" stop="20200807000000 -0300" channel="BR. | Canal Rural SD">
+    <title lang="pt">2º Leilão Touros Nelore RG</title>
+  </programme>
+  <programme start="20200806173000 -0300" stop="20200806180000 -0300" channel="BR. | TV Climatempo SD">
+    <title lang="pt">Camarote.21</title>
+  </programme>
+  <programme start="20200806180000 -0300" stop="20200806183000 -0300" channel="BR. | TV Climatempo SD">
+    <title lang="pt">Boletins do tempo</title>
+  </programme>
+  <programme start="20200806183000 -0300" stop="20200806190000 -0300" channel="BR. | TV Climatempo SD">
+    <title lang="pt">Atitude Sustentável</title>
+  </programme>
+  <programme start="20200806190000 -0300" stop="20200806193000 -0300" channel="BR. | TV Climatempo SD">
+    <title lang="pt">Caminhos do Brasil</title>
+  </programme>
+  <programme start="20200806193000 -0300" stop="20200806200000 -0300" channel="BR. | TV Climatempo SD">
+    <title lang="pt">Os Hermanos Perdidos no Brasil</title>
+  </programme>
+  <programme start="20200806200000 -0300" stop="20200806210000 -0300" channel="BR. | TV Climatempo SD">
+    <title lang="pt">Planeta Turismo</title>
+  </programme>
+  <programme start="20200806210000 -0300" stop="20200806213000 -0300" channel="BR. | TV Climatempo SD">
+    <title lang="pt">Tribuna Rural</title>
+  </programme>
+  <programme start="20200806213000 -0300" stop="20200806220000 -0300" channel="BR. | TV Climatempo SD">
+    <title lang="pt">Canal de Bike</title>
+  </programme>
+  <programme start="20200806220000 -0300" stop="20200806223000 -0300" channel="BR. | TV Climatempo SD">
+    <title lang="pt">Século XI</title>
+  </programme>
+  <programme start="20200806223000 -0300" stop="20200806230000 -0300" channel="BR. | TV Climatempo SD">
+    <title lang="pt">Mundos Possíveis</title>
+  </programme>
+  <programme start="20200806230000 -0300" stop="20200806233000 -0300" channel="BR. | TV Climatempo SD">
+    <title lang="pt">Vera Toledo</title>
+  </programme>
+  <programme start="20200806233000 -0300" stop="20200807000000 -0300" channel="BR. | TV Climatempo SD">
+    <title lang="pt">YeeahPIX</title>
+  </programme>
+  <programme start="20200806170000 -0300" stop="20200806180000 -0300" channel="BR. | TV Escola SD">
+    <title lang="pt">Sala de Professor</title>
+  </programme>
+  <programme start="20200806180000 -0300" stop="20200806183000 -0300" channel="BR. | TV Escola SD">
+    <title lang="pt">Hora do Enem</title>
+  </programme>
+  <programme start="20200806183000 -0300" stop="20200806190000 -0300" channel="BR. | TV Escola SD">
+    <title lang="pt">Deu a Louca na História</title>
+  </programme>
+  <programme start="20200806190000 -0300" stop="20200806193000 -0300" channel="BR. | TV Escola SD">
+    <title lang="pt">Mulheres De Macacão</title>
+  </programme>
+  <programme start="20200806193000 -0300" stop="20200806200000 -0300" channel="BR. | TV Escola SD">
+    <title lang="pt">Sua Escola, Nossa Escola - Alfabetização</title>
+  </programme>
+  <programme start="20200806200000 -0300" stop="20200806210000 -0300" channel="BR. | TV Escola SD">
+    <title lang="pt">Não Entre em Pânico: A Verdade Sobre o Aumento Populacional</title>
+  </programme>
+  <programme start="20200806210000 -0300" stop="20200806220000 -0300" channel="BR. | TV Escola SD">
+    <title lang="pt">Conquistadores</title>
+  </programme>
+  <programme start="20200806220000 -0300" stop="20200806223000 -0300" channel="BR. | TV Escola SD">
+    <title lang="pt">Incluídos: Trabalhando Sem Preconceitos</title>
+  </programme>
+  <programme start="20200806223000 -0300" stop="20200806230000 -0300" channel="BR. | TV Escola SD">
+    <title lang="pt">Fundamental</title>
+  </programme>
+  <programme start="20200806230000 -0300" stop="20200807000000 -0300" channel="BR. | TV Escola SD">
+    <title lang="pt">Sala de Professor</title>
+  </programme>
+</tv>
