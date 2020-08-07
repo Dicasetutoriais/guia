@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Br:ANIMAL PLANET">
     <display-name lang="pt">Br:ANIMAL PLANET</display-name>
@@ -36,9 +36,26 @@
     <display-name lang="pt">Br:THE HISTORY CHANNEL</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20200807092900 -0300" stop="20200807102000 -0300" channel="Br:ANIMAL PLANET">
-    <title lang="pt">Família ao Resgate</title>
-  </programme>
+  <channel id="GLOBO NEWS HD">
+    <display-name lang="pt">GLOBO NEWS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo Bahia HD">
+    <display-name lang="pt">Globo Bahia HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo Nordeste FHD">
+    <display-name lang="pt">Globo Nordeste FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo Rj">
+    <display-name lang="pt">Globo Rj</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo Sp">
+    <display-name lang="pt">Globo Sp</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20200807102000 -0300" stop="20200807111100 -0300" channel="Br:ANIMAL PLANET">
     <title lang="pt">Família ao Resgate</title>
   </programme>
@@ -648,12 +665,6 @@
   <programme start="20200813235800 -0300" stop="20200814004900 -0300" channel="Br:ANIMAL PLANET">
     <title lang="pt">Predadores</title>
   </programme>
-  <programme start="20200807091900 -0300" stop="20200807100600 -0300" channel="Br:DISCOVERY CHANNEL">
-    <title lang="pt">Caçadores de Pítons</title>
-  </programme>
-  <programme start="20200807100600 -0300" stop="20200807105400 -0300" channel="Br:DISCOVERY CHANNEL">
-    <title lang="pt">Caçadores de Venenos</title>
-  </programme>
   <programme start="20200807105400 -0300" stop="20200807114200 -0300" channel="Br:DISCOVERY CHANNEL">
     <title lang="pt">Lendas Selvagens</title>
   </programme>
@@ -1262,9 +1273,6 @@
   </programme>
   <programme start="20200813233400 -0300" stop="20200814002200 -0300" channel="Br:DISCOVERY CHANNEL">
     <title lang="pt">Rumo ao Desconhecido</title>
-  </programme>
-  <programme start="20200807094600 -0300" stop="20200807103400 -0300" channel="Discovery Home &amp; Health [Brazil]">
-    <title lang="pt">Junior Masterchef EUA</title>
   </programme>
   <programme start="20200807103400 -0300" stop="20200807112200 -0300" channel="Discovery Home &amp; Health [Brazil]">
     <title lang="pt">Os Busbys + 5</title>
@@ -1901,9 +1909,6 @@
   </programme>
   <programme start="20200813234800 -0300" stop="20200814001300 -0300" channel="Discovery Home &amp; Health [Brazil]">
     <title lang="pt">Em Busca Da Casa Perfeita: Familia</title>
-  </programme>
-  <programme start="20200807100000 -0300" stop="20200807104800 -0300" channel="Br:DISCOVERY SCIENCE">
-    <title lang="pt">Protótipos</title>
   </programme>
   <programme start="20200807104800 -0300" stop="20200807113600 -0300" channel="Br:DISCOVERY SCIENCE">
     <title lang="pt">Protótipos</title>
@@ -2607,9 +2612,6 @@
   <programme start="20200813233600 -0300" stop="20200814002400 -0300" channel="Br:DISCOVERY SCIENCE">
     <title lang="pt">Maravilhas da Natureza</title>
   </programme>
-  <programme start="20200807100000 -0300" stop="20200807104800 -0300" channel="Br:DISCOVERY THEATER HD">
-    <title lang="pt">Alasca ao Extremo</title>
-  </programme>
   <programme start="20200807104800 -0300" stop="20200807113600 -0300" channel="Br:DISCOVERY THEATER HD">
     <title lang="pt">Ideias para Salvar o Planeta</title>
   </programme>
@@ -3255,9 +3257,6 @@
   <programme start="20200813233600 -0300" stop="20200814002400 -0300" channel="Br:DISCOVERY THEATER HD">
     <title lang="pt">O Mundo do Futuro</title>
   </programme>
-  <programme start="20200807095900 -0300" stop="20200807104700 -0300" channel="Br:DISCOVERY TURBO">
-    <title lang="pt">Trans Am Series</title>
-  </programme>
   <programme start="20200807104700 -0300" stop="20200807113500 -0300" channel="Br:DISCOVERY TURBO">
     <title lang="pt">Pequena Grande Oficina</title>
   </programme>
@@ -3890,9 +3889,6 @@
   </programme>
   <programme start="20200813234800 -0300" stop="20200814003600 -0300" channel="Br:DISCOVERY TURBO">
     <title lang="pt">Os Reis da Sucata</title>
-  </programme>
-  <programme start="20200807100000 -0300" stop="20200807104700 -0300" channel="Br:NAT GEO">
-    <title lang="pt">Homem Vs. Guepardo</title>
   </programme>
   <programme start="20200807104700 -0300" stop="20200807113000 -0300" channel="Br:NAT GEO">
     <title lang="pt">Alive</title>
@@ -4593,9 +4589,6 @@
   <programme start="20200813232000 -0300" stop="20200814001000 -0300" channel="Br:NAT GEO">
     <title lang="pt">Império Selvagem</title>
   </programme>
-  <programme start="20200807095500 -0300" stop="20200807104100 -0300" channel="Br:NAT GEO WILD">
-    <title lang="pt">O Melhor de Predadores Letais</title>
-  </programme>
   <programme start="20200807104100 -0300" stop="20200807112600 -0300" channel="Br:NAT GEO WILD">
     <title lang="pt">O Melhor De Predadores Africanos</title>
   </programme>
@@ -5255,12 +5248,6 @@
   </programme>
   <programme start="20200813233000 -0300" stop="20200814001500 -0300" channel="Br:NAT GEO WILD">
     <title lang="pt">O Poder da Loba</title>
-  </programme>
-  <programme start="20200807094500 -0300" stop="20200807101000 -0300" channel="Br:THE HISTORY CHANNEL">
-    <title lang="pt">Devoradores de História</title>
-  </programme>
-  <programme start="20200807101000 -0300" stop="20200807110000 -0300" channel="Br:THE HISTORY CHANNEL">
-    <title lang="pt">Desafio Sob Fogo</title>
   </programme>
   <programme start="20200807110000 -0300" stop="20200807115000 -0300" channel="Br:THE HISTORY CHANNEL">
     <title lang="pt">O Melhor de Caçadores de Relíquias</title>
@@ -6083,5 +6070,1805 @@
   </programme>
   <programme start="20200813235000 -0300" stop="20200814001500 -0300" channel="Br:THE HISTORY CHANNEL">
     <title lang="pt">Quem dá Mais?</title>
+  </programme>
+  <programme start="20200807090000 -0300" stop="20200807130000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+  </programme>
+  <programme start="20200807130000 -0300" stop="20200807160000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+  </programme>
+  <programme start="20200807160000 -0300" stop="20200807180000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 16h - Ao Vivo</title>
+  </programme>
+  <programme start="20200807180000 -0300" stop="20200807200000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20200807200000 -0300" stop="20200807220000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">GloboNews em Pauta - Ao Vivo</title>
+  </programme>
+  <programme start="20200807220000 -0300" stop="20200808000000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+  </programme>
+  <programme start="20200808000000 -0300" stop="20200808013000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite - Ao Vivo</title>
+  </programme>
+  <programme start="20200808013000 -0300" stop="20200808033000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">GloboNews em Pauta - Ao Vivo</title>
+  </programme>
+  <programme start="20200808033000 -0300" stop="20200808040000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20200808040000 -0300" stop="20200808060000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20200808060000 -0300" stop="20200808070000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição das 06h - Ao Vivo</title>
+  </programme>
+  <programme start="20200808070000 -0300" stop="20200808080000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição das 07h - Ao Vivo</title>
+  </programme>
+  <programme start="20200808080000 -0300" stop="20200808100000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição das 08h - Ao Vivo</title>
+  </programme>
+  <programme start="20200808100000 -0300" stop="20200808120000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+  </programme>
+  <programme start="20200808120000 -0300" stop="20200808150000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição do Meio-Dia - Ao Vivo</title>
+  </programme>
+  <programme start="20200808150000 -0300" stop="20200808180000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição das 15h - Ao Vivo</title>
+  </programme>
+  <programme start="20200808180000 -0300" stop="20200808200000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20200808200000 -0300" stop="20200808220000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 20h - Ao Vivo</title>
+  </programme>
+  <programme start="20200808220000 -0300" stop="20200809000000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+  </programme>
+  <programme start="20200809000000 -0300" stop="20200809013000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite - Ao Vivo</title>
+  </programme>
+  <programme start="20200809013000 -0300" stop="20200809023000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20200809023000 -0300" stop="20200809040000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20200809040000 -0300" stop="20200809060000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20200809060000 -0300" stop="20200809070000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição das 06h - Ao Vivo</title>
+  </programme>
+  <programme start="20200809070000 -0300" stop="20200809080000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição das 07h - Ao Vivo</title>
+  </programme>
+  <programme start="20200809080000 -0300" stop="20200809100000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição das 08h - Ao Vivo</title>
+  </programme>
+  <programme start="20200809100000 -0300" stop="20200809120000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+  </programme>
+  <programme start="20200809120000 -0300" stop="20200809150000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição do Meio-Dia - Ao Vivo</title>
+  </programme>
+  <programme start="20200809150000 -0300" stop="20200809180000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição das 15h - Ao Vivo</title>
+  </programme>
+  <programme start="20200809180000 -0300" stop="20200809220000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20200809220000 -0300" stop="20200810000000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+  </programme>
+  <programme start="20200810000000 -0300" stop="20200810001000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite - Ao Vivo</title>
+  </programme>
+  <programme start="20200810001000 -0300" stop="20200810030000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Fantástico</title>
+  </programme>
+  <programme start="20200810030000 -0300" stop="20200810033000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição das 03h - Ao Vivo</title>
+  </programme>
+  <programme start="20200810033000 -0300" stop="20200810040000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+  </programme>
+  <programme start="20200810040000 -0300" stop="20200810060000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20200810060000 -0300" stop="20200810090000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Globonews Em Ponto - Ao Vivo</title>
+  </programme>
+  <programme start="20200810090000 -0300" stop="20200810130000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+  </programme>
+  <programme start="20200810130000 -0300" stop="20200810160000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+  </programme>
+  <programme start="20200810160000 -0300" stop="20200810180000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 16h - Ao Vivo</title>
+  </programme>
+  <programme start="20200810180000 -0300" stop="20200810200000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20200810200000 -0300" stop="20200810220000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">GloboNews em Pauta - Ao Vivo</title>
+  </programme>
+  <programme start="20200810220000 -0300" stop="20200811000000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+  </programme>
+  <programme start="20200811000000 -0300" stop="20200811013000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite - Ao Vivo</title>
+  </programme>
+  <programme start="20200811013000 -0300" stop="20200811033000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">GloboNews em Pauta - Ao Vivo</title>
+  </programme>
+  <programme start="20200811033000 -0300" stop="20200811040000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20200811040000 -0300" stop="20200811060000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20200811060000 -0300" stop="20200811090000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Globonews Em Ponto - Ao Vivo</title>
+  </programme>
+  <programme start="20200811090000 -0300" stop="20200811130000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+  </programme>
+  <programme start="20200811130000 -0300" stop="20200811160000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+  </programme>
+  <programme start="20200811160000 -0300" stop="20200811180000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 16h - Ao Vivo</title>
+  </programme>
+  <programme start="20200811180000 -0300" stop="20200811200000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20200811200000 -0300" stop="20200811220000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">GloboNews em Pauta - Ao Vivo</title>
+  </programme>
+  <programme start="20200811220000 -0300" stop="20200812000000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+  </programme>
+  <programme start="20200812000000 -0300" stop="20200812013000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite - Ao Vivo</title>
+  </programme>
+  <programme start="20200812013000 -0300" stop="20200812033000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">GloboNews em Pauta - Ao Vivo</title>
+  </programme>
+  <programme start="20200812033000 -0300" stop="20200812040000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20200812040000 -0300" stop="20200812060000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20200812060000 -0300" stop="20200812090000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Globonews Em Ponto - Ao Vivo</title>
+  </programme>
+  <programme start="20200812090000 -0300" stop="20200812130000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+  </programme>
+  <programme start="20200812130000 -0300" stop="20200812160000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+  </programme>
+  <programme start="20200812160000 -0300" stop="20200812180000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 16h - Ao Vivo</title>
+  </programme>
+  <programme start="20200812180000 -0300" stop="20200812200000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20200812200000 -0300" stop="20200812220000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">GloboNews em Pauta - Ao Vivo</title>
+  </programme>
+  <programme start="20200812220000 -0300" stop="20200813000000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+  </programme>
+  <programme start="20200813000000 -0300" stop="20200813013000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite - Ao Vivo</title>
+  </programme>
+  <programme start="20200813013000 -0300" stop="20200813033000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">GloboNews em Pauta - Ao Vivo</title>
+  </programme>
+  <programme start="20200813033000 -0300" stop="20200813040000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20200813040000 -0300" stop="20200813060000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20200813060000 -0300" stop="20200813090000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Globonews Em Ponto - Ao Vivo</title>
+  </programme>
+  <programme start="20200813090000 -0300" stop="20200813130000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+  </programme>
+  <programme start="20200813130000 -0300" stop="20200813160000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+  </programme>
+  <programme start="20200813160000 -0300" stop="20200813180000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 16h - Ao Vivo</title>
+  </programme>
+  <programme start="20200813180000 -0300" stop="20200813200000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20200813200000 -0300" stop="20200813220000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">GloboNews em Pauta - Ao Vivo</title>
+  </programme>
+  <programme start="20200813220000 -0300" stop="20200814000000 -0300" channel="GLOBO NEWS HD">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+  </programme>
+  <programme start="20200807100000 -0300" stop="20200807120000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200807120000 -0300" stop="20200807130000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Bahia Meio Dia</title>
+  </programme>
+  <programme start="20200807130000 -0300" stop="20200807132500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200807132500 -0300" stop="20200807145600 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200807145600 -0300" stop="20200807163300 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Sessão da Tarde: À Procura da Felicidade</title>
+  </programme>
+  <programme start="20200807163300 -0300" stop="20200807175600 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200807175600 -0300" stop="20200807182200 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200807182200 -0300" stop="20200807190400 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200807190400 -0300" stop="20200807193400 -0300" channel="Globo Bahia HD">
+    <title lang="pt">BA TV</title>
+  </programme>
+  <programme start="20200807193400 -0300" stop="20200807203000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200807203000 -0300" stop="20200807213500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200807213500 -0300" stop="20200807223700 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200807223700 -0300" stop="20200807232500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20200807232500 -0300" stop="20200808001200 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Sessão Globoplay: S.W.A.T.</title>
+  </programme>
+  <programme start="20200808001200 -0300" stop="20200808011200 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200808011200 -0300" stop="20200808015100 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200808015100 -0300" stop="20200808023700 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200808023700 -0300" stop="20200808041300 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Corujão: É o Fim</title>
+  </programme>
+  <programme start="20200808041300 -0300" stop="20200808055000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Corujão II: A Glória e a Graça</title>
+  </programme>
+  <programme start="20200808055000 -0300" stop="20200808065000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Como Será?</title>
+  </programme>
+  <programme start="20200808065000 -0300" stop="20200808071500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Conexão Bahia</title>
+  </programme>
+  <programme start="20200808071500 -0300" stop="20200808075000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Bom Dia Sábado</title>
+  </programme>
+  <programme start="20200808075000 -0300" stop="20200808120000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">É de Casa</title>
+  </programme>
+  <programme start="20200808120000 -0300" stop="20200808130500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Bahia Meio Dia</title>
+  </programme>
+  <programme start="20200808130500 -0300" stop="20200808135500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200808135500 -0300" stop="20200808144000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Mosaico Baiano</title>
+  </programme>
+  <programme start="20200808144000 -0300" stop="20200808145800 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20200808145800 -0300" stop="20200808154700 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Música Boa</title>
+  </programme>
+  <programme start="20200808154700 -0300" stop="20200808182500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Caldeirão do Huck</title>
+  </programme>
+  <programme start="20200808182500 -0300" stop="20200808190000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200808190000 -0300" stop="20200808193000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">BA TV</title>
+  </programme>
+  <programme start="20200808193000 -0300" stop="20200808203000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200808203000 -0300" stop="20200808213800 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200808213800 -0300" stop="20200808222700 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200808222700 -0300" stop="20200808225600 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Zorra</title>
+  </programme>
+  <programme start="20200808225600 -0300" stop="20200809004700 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Altas Horas</title>
+  </programme>
+  <programme start="20200809004700 -0300" stop="20200809022400 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Supercine</title>
+  </programme>
+  <programme start="20200809022400 -0300" stop="20200809034900 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200809034900 -0300" stop="20200809050200 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Corujão II</title>
+  </programme>
+  <programme start="20200809050200 -0300" stop="20200809062500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Corujão III</title>
+  </programme>
+  <programme start="20200809062500 -0300" stop="20200809072600 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Santa Missa</title>
+  </programme>
+  <programme start="20200809072600 -0300" stop="20200809075300 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Bahia Rural</title>
+  </programme>
+  <programme start="20200809075300 -0300" stop="20200809083000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+  </programme>
+  <programme start="20200809083000 -0300" stop="20200809092800 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Globo Rural</title>
+  </programme>
+  <programme start="20200809092800 -0300" stop="20200809101000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Auto Esporte</title>
+  </programme>
+  <programme start="20200809101000 -0300" stop="20200809114500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Fórmula 1</title>
+  </programme>
+  <programme start="20200809114500 -0300" stop="20200809124500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Esporte Espetacular</title>
+  </programme>
+  <programme start="20200809124500 -0300" stop="20200809140200 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Tamanho Família</title>
+  </programme>
+  <programme start="20200809140200 -0300" stop="20200809160000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Temperatura Máxima</title>
+  </programme>
+  <programme start="20200809160000 -0300" stop="20200809180500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Futebol 2020</title>
+  </programme>
+  <programme start="20200809180500 -0300" stop="20200809200000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Domingão do Faustão</title>
+  </programme>
+  <programme start="20200809200000 -0300" stop="20200809224600 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Fantástico</title>
+  </programme>
+  <programme start="20200809224600 -0300" stop="20200810002900 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Domingo Maior</title>
+  </programme>
+  <programme start="20200810002900 -0300" stop="20200810021900 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Cinemaço</title>
+  </programme>
+  <programme start="20200810021900 -0300" stop="20200810040000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200810040000 -0300" stop="20200810060000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200810060000 -0300" stop="20200810083000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal da Manhã</title>
+  </programme>
+  <programme start="20200810083000 -0300" stop="20200810100000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200810100000 -0300" stop="20200810120000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200810120000 -0300" stop="20200810130000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Bahia Meio Dia</title>
+  </programme>
+  <programme start="20200810130000 -0300" stop="20200810132500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200810132500 -0300" stop="20200810145600 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200810145600 -0300" stop="20200810162900 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200810162900 -0300" stop="20200810175000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200810175000 -0300" stop="20200810181700 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200810181700 -0300" stop="20200810190000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200810190000 -0300" stop="20200810193100 -0300" channel="Globo Bahia HD">
+    <title lang="pt">BA TV</title>
+  </programme>
+  <programme start="20200810193100 -0300" stop="20200810203000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200810203000 -0300" stop="20200810213600 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200810213600 -0300" stop="20200810222100 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200810222100 -0300" stop="20200810235600 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Tela Quente</title>
+  </programme>
+  <programme start="20200810235600 -0300" stop="20200811005100 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200811005100 -0300" stop="20200811013000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200811013000 -0300" stop="20200811021500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200811021500 -0300" stop="20200811040000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200811040000 -0300" stop="20200811060000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200811060000 -0300" stop="20200811083000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal da Manhã</title>
+  </programme>
+  <programme start="20200811083000 -0300" stop="20200811100000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200811100000 -0300" stop="20200811120000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200811120000 -0300" stop="20200811130000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Bahia Meio Dia</title>
+  </programme>
+  <programme start="20200811130000 -0300" stop="20200811132500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200811132500 -0300" stop="20200811145600 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200811145600 -0300" stop="20200811162600 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200811162600 -0300" stop="20200811174800 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200811174800 -0300" stop="20200811181800 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200811181800 -0300" stop="20200811190000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200811190000 -0300" stop="20200811193100 -0300" channel="Globo Bahia HD">
+    <title lang="pt">BA TV</title>
+  </programme>
+  <programme start="20200811193100 -0300" stop="20200811203000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200811203000 -0300" stop="20200811213800 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200811213800 -0300" stop="20200811223900 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200811223900 -0300" stop="20200811231600 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Cine Holliúdy</title>
+  </programme>
+  <programme start="20200811231600 -0300" stop="20200812002000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Tapas &amp; Beijos</title>
+  </programme>
+  <programme start="20200812002000 -0300" stop="20200812011500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200812011500 -0300" stop="20200812015400 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200812015400 -0300" stop="20200812024000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200812024000 -0300" stop="20200812040000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200812040000 -0300" stop="20200812060000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200812060000 -0300" stop="20200812083000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal da Manhã</title>
+  </programme>
+  <programme start="20200812083000 -0300" stop="20200812100000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200812100000 -0300" stop="20200812120000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200812120000 -0300" stop="20200812130000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Bahia Meio Dia</title>
+  </programme>
+  <programme start="20200812130000 -0300" stop="20200812132500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200812132500 -0300" stop="20200812145600 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200812145600 -0300" stop="20200812164900 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200812164900 -0300" stop="20200812173200 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200812173200 -0300" stop="20200812180000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200812180000 -0300" stop="20200812183700 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200812183700 -0300" stop="20200812190700 -0300" channel="Globo Bahia HD">
+    <title lang="pt">BA TV</title>
+  </programme>
+  <programme start="20200812190700 -0300" stop="20200812200000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200812200000 -0300" stop="20200812203500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200812203500 -0300" stop="20200812213000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200812213000 -0300" stop="20200812233000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Futebol 2020</title>
+  </programme>
+  <programme start="20200812233000 -0300" stop="20200813002400 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200813002400 -0300" stop="20200813010300 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200813010300 -0300" stop="20200813014900 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200813014900 -0300" stop="20200813040000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200813040000 -0300" stop="20200813060000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200813060000 -0300" stop="20200813083000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal da Manhã</title>
+  </programme>
+  <programme start="20200813083000 -0300" stop="20200813100000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200813100000 -0300" stop="20200813120000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200813120000 -0300" stop="20200813130000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Bahia Meio Dia</title>
+  </programme>
+  <programme start="20200813130000 -0300" stop="20200813132500 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200813132500 -0300" stop="20200813145600 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200813145600 -0300" stop="20200813162800 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200813162800 -0300" stop="20200813174900 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200813174900 -0300" stop="20200813181700 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200813181700 -0300" stop="20200813190200 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200813190200 -0300" stop="20200813193200 -0300" channel="Globo Bahia HD">
+    <title lang="pt">BA TV</title>
+  </programme>
+  <programme start="20200813193200 -0300" stop="20200813203000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200813203000 -0300" stop="20200813213900 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200813213900 -0300" stop="20200813224000 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200813224000 -0300" stop="20200813233800 -0300" channel="Globo Bahia HD">
+    <title lang="pt">Hebe</title>
+  </programme>
+  <programme start="20200813233800 -0300" stop="20200814002200 -0300" channel="Globo Bahia HD">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+  </programme>
+  <programme start="20200807100000 -0300" stop="20200807120000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200807120000 -0300" stop="20200807130000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Praça TV - 1ª Edição</title>
+  </programme>
+  <programme start="20200807130000 -0300" stop="20200807132500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200807132500 -0300" stop="20200807145600 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200807145600 -0300" stop="20200807163300 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Sessão da Tarde: À Procura da Felicidade</title>
+  </programme>
+  <programme start="20200807163300 -0300" stop="20200807175600 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200807175600 -0300" stop="20200807182200 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200807182200 -0300" stop="20200807190400 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200807190400 -0300" stop="20200807193400 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Praça TV - 2ª Edição</title>
+  </programme>
+  <programme start="20200807193400 -0300" stop="20200807203000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200807203000 -0300" stop="20200807213500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200807213500 -0300" stop="20200807223700 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200807223700 -0300" stop="20200807232500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20200807232500 -0300" stop="20200808001200 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Sessão Globoplay: S.W.A.T.</title>
+  </programme>
+  <programme start="20200808001200 -0300" stop="20200808011200 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200808011200 -0300" stop="20200808015100 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200808015100 -0300" stop="20200808023700 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200808023700 -0300" stop="20200808041300 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Corujão: É o Fim</title>
+  </programme>
+  <programme start="20200808041300 -0300" stop="20200808055000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Corujão II: A Glória e a Graça</title>
+  </programme>
+  <programme start="20200808055000 -0300" stop="20200808065000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Como Será?</title>
+  </programme>
+  <programme start="20200808065000 -0300" stop="20200808120000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">É de Casa</title>
+  </programme>
+  <programme start="20200808120000 -0300" stop="20200808124900 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Praça TV - 1ª Edição</title>
+  </programme>
+  <programme start="20200808124900 -0300" stop="20200808131500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200808131500 -0300" stop="20200808135800 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200808135800 -0300" stop="20200808163000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Caldeirão do Huck</title>
+  </programme>
+  <programme start="20200808163000 -0300" stop="20200808183100 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Futebol 2020</title>
+  </programme>
+  <programme start="20200808183100 -0300" stop="20200808191400 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200808191400 -0300" stop="20200808193900 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Praça TV - 2ª Edição</title>
+  </programme>
+  <programme start="20200808193900 -0300" stop="20200808203000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200808203000 -0300" stop="20200808214100 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200808214100 -0300" stop="20200808224400 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200808224400 -0300" stop="20200808231200 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Zorra</title>
+  </programme>
+  <programme start="20200808231200 -0300" stop="20200809005700 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Altas Horas</title>
+  </programme>
+  <programme start="20200809005700 -0300" stop="20200809023400 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Supercine</title>
+  </programme>
+  <programme start="20200809023400 -0300" stop="20200809035500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200809035500 -0300" stop="20200809050800 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Corujão II</title>
+  </programme>
+  <programme start="20200809050800 -0300" stop="20200809063000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Corujão III</title>
+  </programme>
+  <programme start="20200809063000 -0300" stop="20200809073100 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Santa Missa</title>
+  </programme>
+  <programme start="20200809073100 -0300" stop="20200809075800 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Globo Comunidade</title>
+  </programme>
+  <programme start="20200809075800 -0300" stop="20200809083600 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+  </programme>
+  <programme start="20200809083600 -0300" stop="20200809093100 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Globo Rural</title>
+  </programme>
+  <programme start="20200809093100 -0300" stop="20200809101000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Auto Esporte</title>
+  </programme>
+  <programme start="20200809101000 -0300" stop="20200809114600 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Fórmula 1</title>
+  </programme>
+  <programme start="20200809114600 -0300" stop="20200809124500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Esporte Espetacular</title>
+  </programme>
+  <programme start="20200809124500 -0300" stop="20200809140300 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Tamanho Família</title>
+  </programme>
+  <programme start="20200809140300 -0300" stop="20200809160000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Temperatura Máxima</title>
+  </programme>
+  <programme start="20200809160000 -0300" stop="20200809180500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Futebol 2020</title>
+  </programme>
+  <programme start="20200809180500 -0300" stop="20200809200000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Domingão do Faustão</title>
+  </programme>
+  <programme start="20200809200000 -0300" stop="20200809224700 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Fantástico</title>
+  </programme>
+  <programme start="20200809224700 -0300" stop="20200810010100 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Domingo Maior</title>
+  </programme>
+  <programme start="20200810010100 -0300" stop="20200810023600 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Cinemaço</title>
+  </programme>
+  <programme start="20200810023600 -0300" stop="20200810040000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200810040000 -0300" stop="20200810060000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200810060000 -0300" stop="20200810083000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Bom Dia Praça</title>
+  </programme>
+  <programme start="20200810083000 -0300" stop="20200810100000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200810100000 -0300" stop="20200810120000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200810120000 -0300" stop="20200810130000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Praça TV - 1ª Edição</title>
+  </programme>
+  <programme start="20200810130000 -0300" stop="20200810132500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200810132500 -0300" stop="20200810145500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200810145500 -0300" stop="20200810162800 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200810162800 -0300" stop="20200810174900 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200810174900 -0300" stop="20200810181700 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200810181700 -0300" stop="20200810190000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200810190000 -0300" stop="20200810193100 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Praça TV - 2ª Edição</title>
+  </programme>
+  <programme start="20200810193100 -0300" stop="20200810203000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200810203000 -0300" stop="20200810213700 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200810213700 -0300" stop="20200810221700 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200810221700 -0300" stop="20200811001000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Tela Quente</title>
+  </programme>
+  <programme start="20200811001000 -0300" stop="20200811010500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200811010500 -0300" stop="20200811014500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200811014500 -0300" stop="20200811023000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200811023000 -0300" stop="20200811040000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200811040000 -0300" stop="20200811060000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200811060000 -0300" stop="20200811083000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Bom Dia Praça</title>
+  </programme>
+  <programme start="20200811083000 -0300" stop="20200811100000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200811100000 -0300" stop="20200811120000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200811120000 -0300" stop="20200811130000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Praça TV - 1ª Edição</title>
+  </programme>
+  <programme start="20200811130000 -0300" stop="20200811132500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200811132500 -0300" stop="20200811145600 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200811145600 -0300" stop="20200811162700 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200811162700 -0300" stop="20200811174900 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200811174900 -0300" stop="20200811181500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200811181500 -0300" stop="20200811185700 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200811185700 -0300" stop="20200811192800 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Praça TV - 2ª Edição</title>
+  </programme>
+  <programme start="20200811192800 -0300" stop="20200811203000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200811203000 -0300" stop="20200811213700 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200811213700 -0300" stop="20200811223800 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200811223800 -0300" stop="20200811230800 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Cine Holliúdy</title>
+  </programme>
+  <programme start="20200811230800 -0300" stop="20200812002000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Tapas &amp; Beijos</title>
+  </programme>
+  <programme start="20200812002000 -0300" stop="20200812011500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200812011500 -0300" stop="20200812015400 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200812015400 -0300" stop="20200812023200 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200812023200 -0300" stop="20200812040000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200812040000 -0300" stop="20200812060000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200812060000 -0300" stop="20200812083000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Bom Dia Praça</title>
+  </programme>
+  <programme start="20200812083000 -0300" stop="20200812100000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200812100000 -0300" stop="20200812120000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200812120000 -0300" stop="20200812130000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Praça TV - 1ª Edição</title>
+  </programme>
+  <programme start="20200812130000 -0300" stop="20200812132500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200812132500 -0300" stop="20200812145600 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200812145600 -0300" stop="20200812164200 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200812164200 -0300" stop="20200812172800 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200812172800 -0300" stop="20200812175500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200812175500 -0300" stop="20200812183200 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200812183200 -0300" stop="20200812190300 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Praça TV - 2ª Edição</title>
+  </programme>
+  <programme start="20200812190300 -0300" stop="20200812200000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200812200000 -0300" stop="20200812203600 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200812203600 -0300" stop="20200812213000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200812213000 -0300" stop="20200812233000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Futebol 2020</title>
+  </programme>
+  <programme start="20200812233000 -0300" stop="20200812234600 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Segue o Jogo</title>
+  </programme>
+  <programme start="20200812234600 -0300" stop="20200813004100 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200813004100 -0300" stop="20200813012000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200813012000 -0300" stop="20200813020500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200813020500 -0300" stop="20200813040000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200813040000 -0300" stop="20200813060000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200813060000 -0300" stop="20200813083000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Bom Dia Praça</title>
+  </programme>
+  <programme start="20200813083000 -0300" stop="20200813100000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200813100000 -0300" stop="20200813120000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200813120000 -0300" stop="20200813130000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Praça TV - 1ª Edição</title>
+  </programme>
+  <programme start="20200813130000 -0300" stop="20200813132500 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200813132500 -0300" stop="20200813145700 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200813145700 -0300" stop="20200813162900 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200813162900 -0300" stop="20200813175100 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200813175100 -0300" stop="20200813181700 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200813181700 -0300" stop="20200813185900 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200813185900 -0300" stop="20200813192900 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Praça TV - 2ª Edição</title>
+  </programme>
+  <programme start="20200813192900 -0300" stop="20200813203000 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200813203000 -0300" stop="20200813213800 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200813213800 -0300" stop="20200813223900 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200813223900 -0300" stop="20200813233400 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">Hebe</title>
+  </programme>
+  <programme start="20200813233400 -0300" stop="20200814001700 -0300" channel="Globo Nordeste FHD">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+  </programme>
+  <programme start="20200807100000 -0300" stop="20200807120000 -0300" channel="Globo Rj">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200807120000 -0300" stop="20200807130000 -0300" channel="Globo Rj">
+    <title lang="pt">RJ1</title>
+  </programme>
+  <programme start="20200807130000 -0300" stop="20200807132500 -0300" channel="Globo Rj">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200807132500 -0300" stop="20200807145600 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200807145600 -0300" stop="20200807163300 -0300" channel="Globo Rj">
+    <title lang="pt">Sessão da Tarde: À Procura da Felicidade</title>
+  </programme>
+  <programme start="20200807163300 -0300" stop="20200807175600 -0300" channel="Globo Rj">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200807175600 -0300" stop="20200807182200 -0300" channel="Globo Rj">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200807182200 -0300" stop="20200807190400 -0300" channel="Globo Rj">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200807190400 -0300" stop="20200807193400 -0300" channel="Globo Rj">
+    <title lang="pt">RJ2</title>
+  </programme>
+  <programme start="20200807193400 -0300" stop="20200807203000 -0300" channel="Globo Rj">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200807203000 -0300" stop="20200807213500 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200807213500 -0300" stop="20200807223700 -0300" channel="Globo Rj">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200807223700 -0300" stop="20200807232500 -0300" channel="Globo Rj">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20200807232500 -0300" stop="20200808001200 -0300" channel="Globo Rj">
+    <title lang="pt">Sessão Globoplay: S.W.A.T.</title>
+  </programme>
+  <programme start="20200808001200 -0300" stop="20200808011200 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200808011200 -0300" stop="20200808015100 -0300" channel="Globo Rj">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200808015100 -0300" stop="20200808023700 -0300" channel="Globo Rj">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200808023700 -0300" stop="20200808041300 -0300" channel="Globo Rj">
+    <title lang="pt">Corujão: É o Fim</title>
+  </programme>
+  <programme start="20200808041300 -0300" stop="20200808055000 -0300" channel="Globo Rj">
+    <title lang="pt">Corujão II: A Glória e a Graça</title>
+  </programme>
+  <programme start="20200808055000 -0300" stop="20200808065000 -0300" channel="Globo Rj">
+    <title lang="pt">Como Será?</title>
+  </programme>
+  <programme start="20200808065000 -0300" stop="20200808120000 -0300" channel="Globo Rj">
+    <title lang="pt">É de Casa</title>
+  </programme>
+  <programme start="20200808120000 -0300" stop="20200808130500 -0300" channel="Globo Rj">
+    <title lang="pt">RJ1</title>
+  </programme>
+  <programme start="20200808130500 -0300" stop="20200808135500 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200808135500 -0300" stop="20200808145800 -0300" channel="Globo Rj">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20200808145800 -0300" stop="20200808154700 -0300" channel="Globo Rj">
+    <title lang="pt">Música Boa</title>
+  </programme>
+  <programme start="20200808154700 -0300" stop="20200808182500 -0300" channel="Globo Rj">
+    <title lang="pt">Caldeirão do Huck</title>
+  </programme>
+  <programme start="20200808182500 -0300" stop="20200808190000 -0300" channel="Globo Rj">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200808190000 -0300" stop="20200808193000 -0300" channel="Globo Rj">
+    <title lang="pt">RJ2</title>
+  </programme>
+  <programme start="20200808193000 -0300" stop="20200808203000 -0300" channel="Globo Rj">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200808203000 -0300" stop="20200808213800 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200808213800 -0300" stop="20200808222700 -0300" channel="Globo Rj">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200808222700 -0300" stop="20200808225600 -0300" channel="Globo Rj">
+    <title lang="pt">Zorra</title>
+  </programme>
+  <programme start="20200808225600 -0300" stop="20200809004700 -0300" channel="Globo Rj">
+    <title lang="pt">Altas Horas</title>
+  </programme>
+  <programme start="20200809004700 -0300" stop="20200809022400 -0300" channel="Globo Rj">
+    <title lang="pt">Supercine</title>
+  </programme>
+  <programme start="20200809022400 -0300" stop="20200809034900 -0300" channel="Globo Rj">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200809034900 -0300" stop="20200809050200 -0300" channel="Globo Rj">
+    <title lang="pt">Corujão II</title>
+  </programme>
+  <programme start="20200809050200 -0300" stop="20200809062500 -0300" channel="Globo Rj">
+    <title lang="pt">Corujão III</title>
+  </programme>
+  <programme start="20200809062500 -0300" stop="20200809072600 -0300" channel="Globo Rj">
+    <title lang="pt">Santa Missa</title>
+  </programme>
+  <programme start="20200809072600 -0300" stop="20200809075300 -0300" channel="Globo Rj">
+    <title lang="pt">Globo Comunidade</title>
+  </programme>
+  <programme start="20200809075300 -0300" stop="20200809083000 -0300" channel="Globo Rj">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+  </programme>
+  <programme start="20200809083000 -0300" stop="20200809092800 -0300" channel="Globo Rj">
+    <title lang="pt">Globo Rural</title>
+  </programme>
+  <programme start="20200809092800 -0300" stop="20200809101000 -0300" channel="Globo Rj">
+    <title lang="pt">Auto Esporte</title>
+  </programme>
+  <programme start="20200809101000 -0300" stop="20200809114500 -0300" channel="Globo Rj">
+    <title lang="pt">Fórmula 1</title>
+  </programme>
+  <programme start="20200809114500 -0300" stop="20200809124500 -0300" channel="Globo Rj">
+    <title lang="pt">Esporte Espetacular</title>
+  </programme>
+  <programme start="20200809124500 -0300" stop="20200809140200 -0300" channel="Globo Rj">
+    <title lang="pt">Tamanho Família</title>
+  </programme>
+  <programme start="20200809140200 -0300" stop="20200809160000 -0300" channel="Globo Rj">
+    <title lang="pt">Temperatura Máxima</title>
+  </programme>
+  <programme start="20200809160000 -0300" stop="20200809180500 -0300" channel="Globo Rj">
+    <title lang="pt">Futebol 2020</title>
+  </programme>
+  <programme start="20200809180500 -0300" stop="20200809200000 -0300" channel="Globo Rj">
+    <title lang="pt">Domingão do Faustão</title>
+  </programme>
+  <programme start="20200809200000 -0300" stop="20200809224600 -0300" channel="Globo Rj">
+    <title lang="pt">Fantástico</title>
+  </programme>
+  <programme start="20200809224600 -0300" stop="20200810002900 -0300" channel="Globo Rj">
+    <title lang="pt">Domingo Maior</title>
+  </programme>
+  <programme start="20200810002900 -0300" stop="20200810021900 -0300" channel="Globo Rj">
+    <title lang="pt">Cinemaço</title>
+  </programme>
+  <programme start="20200810021900 -0300" stop="20200810040000 -0300" channel="Globo Rj">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200810040000 -0300" stop="20200810060000 -0300" channel="Globo Rj">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200810060000 -0300" stop="20200810083000 -0300" channel="Globo Rj">
+    <title lang="pt">Bom Dia Rio</title>
+  </programme>
+  <programme start="20200810083000 -0300" stop="20200810100000 -0300" channel="Globo Rj">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200810100000 -0300" stop="20200810120000 -0300" channel="Globo Rj">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200810120000 -0300" stop="20200810130000 -0300" channel="Globo Rj">
+    <title lang="pt">RJ1</title>
+  </programme>
+  <programme start="20200810130000 -0300" stop="20200810132500 -0300" channel="Globo Rj">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200810132500 -0300" stop="20200810145600 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200810145600 -0300" stop="20200810162900 -0300" channel="Globo Rj">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200810162900 -0300" stop="20200810175000 -0300" channel="Globo Rj">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200810175000 -0300" stop="20200810181700 -0300" channel="Globo Rj">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200810181700 -0300" stop="20200810190000 -0300" channel="Globo Rj">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200810190000 -0300" stop="20200810193100 -0300" channel="Globo Rj">
+    <title lang="pt">RJ2</title>
+  </programme>
+  <programme start="20200810193100 -0300" stop="20200810203000 -0300" channel="Globo Rj">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200810203000 -0300" stop="20200810213600 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200810213600 -0300" stop="20200810222100 -0300" channel="Globo Rj">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200810222100 -0300" stop="20200810235600 -0300" channel="Globo Rj">
+    <title lang="pt">Tela Quente</title>
+  </programme>
+  <programme start="20200810235600 -0300" stop="20200811005100 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200811005100 -0300" stop="20200811013000 -0300" channel="Globo Rj">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200811013000 -0300" stop="20200811021500 -0300" channel="Globo Rj">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200811021500 -0300" stop="20200811040000 -0300" channel="Globo Rj">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200811040000 -0300" stop="20200811060000 -0300" channel="Globo Rj">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200811060000 -0300" stop="20200811083000 -0300" channel="Globo Rj">
+    <title lang="pt">Bom Dia Rio</title>
+  </programme>
+  <programme start="20200811083000 -0300" stop="20200811100000 -0300" channel="Globo Rj">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200811100000 -0300" stop="20200811120000 -0300" channel="Globo Rj">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200811120000 -0300" stop="20200811130000 -0300" channel="Globo Rj">
+    <title lang="pt">RJ1</title>
+  </programme>
+  <programme start="20200811130000 -0300" stop="20200811132500 -0300" channel="Globo Rj">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200811132500 -0300" stop="20200811145600 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200811145600 -0300" stop="20200811162600 -0300" channel="Globo Rj">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200811162600 -0300" stop="20200811174800 -0300" channel="Globo Rj">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200811174800 -0300" stop="20200811181800 -0300" channel="Globo Rj">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200811181800 -0300" stop="20200811190000 -0300" channel="Globo Rj">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200811190000 -0300" stop="20200811193100 -0300" channel="Globo Rj">
+    <title lang="pt">RJ2</title>
+  </programme>
+  <programme start="20200811193100 -0300" stop="20200811203000 -0300" channel="Globo Rj">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200811203000 -0300" stop="20200811213800 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200811213800 -0300" stop="20200811223900 -0300" channel="Globo Rj">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200811223900 -0300" stop="20200811231600 -0300" channel="Globo Rj">
+    <title lang="pt">Cine Holliúdy</title>
+  </programme>
+  <programme start="20200811231600 -0300" stop="20200812002000 -0300" channel="Globo Rj">
+    <title lang="pt">Tapas &amp; Beijos</title>
+  </programme>
+  <programme start="20200812002000 -0300" stop="20200812011500 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200812011500 -0300" stop="20200812015400 -0300" channel="Globo Rj">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200812015400 -0300" stop="20200812024000 -0300" channel="Globo Rj">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200812024000 -0300" stop="20200812040000 -0300" channel="Globo Rj">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200812040000 -0300" stop="20200812060000 -0300" channel="Globo Rj">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200812060000 -0300" stop="20200812083000 -0300" channel="Globo Rj">
+    <title lang="pt">Bom Dia Rio</title>
+  </programme>
+  <programme start="20200812083000 -0300" stop="20200812100000 -0300" channel="Globo Rj">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200812100000 -0300" stop="20200812120000 -0300" channel="Globo Rj">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200812120000 -0300" stop="20200812130000 -0300" channel="Globo Rj">
+    <title lang="pt">RJ1</title>
+  </programme>
+  <programme start="20200812130000 -0300" stop="20200812132500 -0300" channel="Globo Rj">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200812132500 -0300" stop="20200812145600 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200812145600 -0300" stop="20200812164900 -0300" channel="Globo Rj">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200812164900 -0300" stop="20200812173200 -0300" channel="Globo Rj">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200812173200 -0300" stop="20200812180000 -0300" channel="Globo Rj">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200812180000 -0300" stop="20200812183700 -0300" channel="Globo Rj">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200812183700 -0300" stop="20200812190700 -0300" channel="Globo Rj">
+    <title lang="pt">RJ2</title>
+  </programme>
+  <programme start="20200812190700 -0300" stop="20200812200000 -0300" channel="Globo Rj">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200812200000 -0300" stop="20200812203500 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200812203500 -0300" stop="20200812213000 -0300" channel="Globo Rj">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200812213000 -0300" stop="20200812233000 -0300" channel="Globo Rj">
+    <title lang="pt">Futebol 2020</title>
+  </programme>
+  <programme start="20200812233000 -0300" stop="20200813002400 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200813002400 -0300" stop="20200813010300 -0300" channel="Globo Rj">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200813010300 -0300" stop="20200813014900 -0300" channel="Globo Rj">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200813014900 -0300" stop="20200813040000 -0300" channel="Globo Rj">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200813040000 -0300" stop="20200813060000 -0300" channel="Globo Rj">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200813060000 -0300" stop="20200813083000 -0300" channel="Globo Rj">
+    <title lang="pt">Bom Dia Rio</title>
+  </programme>
+  <programme start="20200813083000 -0300" stop="20200813100000 -0300" channel="Globo Rj">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200813100000 -0300" stop="20200813120000 -0300" channel="Globo Rj">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200813120000 -0300" stop="20200813130000 -0300" channel="Globo Rj">
+    <title lang="pt">RJ1</title>
+  </programme>
+  <programme start="20200813130000 -0300" stop="20200813132500 -0300" channel="Globo Rj">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200813132500 -0300" stop="20200813145600 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200813145600 -0300" stop="20200813162800 -0300" channel="Globo Rj">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200813162800 -0300" stop="20200813174900 -0300" channel="Globo Rj">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200813174900 -0300" stop="20200813181700 -0300" channel="Globo Rj">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200813181700 -0300" stop="20200813190200 -0300" channel="Globo Rj">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200813190200 -0300" stop="20200813193200 -0300" channel="Globo Rj">
+    <title lang="pt">RJ2</title>
+  </programme>
+  <programme start="20200813193200 -0300" stop="20200813203000 -0300" channel="Globo Rj">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200813203000 -0300" stop="20200813213900 -0300" channel="Globo Rj">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200813213900 -0300" stop="20200813224000 -0300" channel="Globo Rj">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200813224000 -0300" stop="20200813233800 -0300" channel="Globo Rj">
+    <title lang="pt">Hebe</title>
+  </programme>
+  <programme start="20200813233800 -0300" stop="20200814002200 -0300" channel="Globo Rj">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+  </programme>
+  <programme start="20200807100000 -0300" stop="20200807120000 -0300" channel="Globo Sp">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200807120000 -0300" stop="20200807130000 -0300" channel="Globo Sp">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20200807130000 -0300" stop="20200807132500 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200807132500 -0300" stop="20200807145600 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200807145600 -0300" stop="20200807163300 -0300" channel="Globo Sp">
+    <title lang="pt">Sessão da Tarde: À Procura da Felicidade</title>
+  </programme>
+  <programme start="20200807163300 -0300" stop="20200807175600 -0300" channel="Globo Sp">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200807175600 -0300" stop="20200807182200 -0300" channel="Globo Sp">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200807182200 -0300" stop="20200807190400 -0300" channel="Globo Sp">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200807190400 -0300" stop="20200807193400 -0300" channel="Globo Sp">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20200807193400 -0300" stop="20200807203000 -0300" channel="Globo Sp">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200807203000 -0300" stop="20200807213500 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200807213500 -0300" stop="20200807223700 -0300" channel="Globo Sp">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200807223700 -0300" stop="20200807232500 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20200807232500 -0300" stop="20200808001200 -0300" channel="Globo Sp">
+    <title lang="pt">Sessão Globoplay: S.W.A.T.</title>
+  </programme>
+  <programme start="20200808001200 -0300" stop="20200808011200 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200808011200 -0300" stop="20200808015100 -0300" channel="Globo Sp">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200808015100 -0300" stop="20200808023700 -0300" channel="Globo Sp">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200808023700 -0300" stop="20200808041300 -0300" channel="Globo Sp">
+    <title lang="pt">Corujão: É o Fim</title>
+  </programme>
+  <programme start="20200808041300 -0300" stop="20200808055000 -0300" channel="Globo Sp">
+    <title lang="pt">Corujão II: A Glória e a Graça</title>
+  </programme>
+  <programme start="20200808055000 -0300" stop="20200808065000 -0300" channel="Globo Sp">
+    <title lang="pt">Como Será?</title>
+  </programme>
+  <programme start="20200808065000 -0300" stop="20200808120000 -0300" channel="Globo Sp">
+    <title lang="pt">É de Casa</title>
+  </programme>
+  <programme start="20200808120000 -0300" stop="20200808130500 -0300" channel="Globo Sp">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20200808130500 -0300" stop="20200808135500 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200808135500 -0300" stop="20200808145800 -0300" channel="Globo Sp">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20200808145800 -0300" stop="20200808154700 -0300" channel="Globo Sp">
+    <title lang="pt">Música Boa</title>
+  </programme>
+  <programme start="20200808154700 -0300" stop="20200808182500 -0300" channel="Globo Sp">
+    <title lang="pt">Caldeirão do Huck</title>
+  </programme>
+  <programme start="20200808182500 -0300" stop="20200808190000 -0300" channel="Globo Sp">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200808190000 -0300" stop="20200808193000 -0300" channel="Globo Sp">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20200808193000 -0300" stop="20200808203000 -0300" channel="Globo Sp">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200808203000 -0300" stop="20200808213800 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200808213800 -0300" stop="20200808222700 -0300" channel="Globo Sp">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200808222700 -0300" stop="20200808225600 -0300" channel="Globo Sp">
+    <title lang="pt">Zorra</title>
+  </programme>
+  <programme start="20200808225600 -0300" stop="20200809004700 -0300" channel="Globo Sp">
+    <title lang="pt">Altas Horas</title>
+  </programme>
+  <programme start="20200809004700 -0300" stop="20200809022400 -0300" channel="Globo Sp">
+    <title lang="pt">Supercine</title>
+  </programme>
+  <programme start="20200809022400 -0300" stop="20200809034900 -0300" channel="Globo Sp">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200809034900 -0300" stop="20200809050200 -0300" channel="Globo Sp">
+    <title lang="pt">Corujão II</title>
+  </programme>
+  <programme start="20200809050200 -0300" stop="20200809062500 -0300" channel="Globo Sp">
+    <title lang="pt">Corujão III</title>
+  </programme>
+  <programme start="20200809062500 -0300" stop="20200809072600 -0300" channel="Globo Sp">
+    <title lang="pt">Santa Missa</title>
+  </programme>
+  <programme start="20200809072600 -0300" stop="20200809075300 -0300" channel="Globo Sp">
+    <title lang="pt">Antena Paulista</title>
+  </programme>
+  <programme start="20200809075300 -0300" stop="20200809083000 -0300" channel="Globo Sp">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+  </programme>
+  <programme start="20200809083000 -0300" stop="20200809092800 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Rural</title>
+  </programme>
+  <programme start="20200809092800 -0300" stop="20200809101000 -0300" channel="Globo Sp">
+    <title lang="pt">Auto Esporte</title>
+  </programme>
+  <programme start="20200809101000 -0300" stop="20200809114500 -0300" channel="Globo Sp">
+    <title lang="pt">Fórmula 1</title>
+  </programme>
+  <programme start="20200809114500 -0300" stop="20200809124500 -0300" channel="Globo Sp">
+    <title lang="pt">Esporte Espetacular</title>
+  </programme>
+  <programme start="20200809124500 -0300" stop="20200809140200 -0300" channel="Globo Sp">
+    <title lang="pt">Tamanho Família</title>
+  </programme>
+  <programme start="20200809140200 -0300" stop="20200809160000 -0300" channel="Globo Sp">
+    <title lang="pt">Temperatura Máxima</title>
+  </programme>
+  <programme start="20200809160000 -0300" stop="20200809180500 -0300" channel="Globo Sp">
+    <title lang="pt">Futebol 2020</title>
+  </programme>
+  <programme start="20200809180500 -0300" stop="20200809200000 -0300" channel="Globo Sp">
+    <title lang="pt">Domingão do Faustão</title>
+  </programme>
+  <programme start="20200809200000 -0300" stop="20200809224600 -0300" channel="Globo Sp">
+    <title lang="pt">Fantástico</title>
+  </programme>
+  <programme start="20200809224600 -0300" stop="20200810002900 -0300" channel="Globo Sp">
+    <title lang="pt">Domingo Maior</title>
+  </programme>
+  <programme start="20200810002900 -0300" stop="20200810021900 -0300" channel="Globo Sp">
+    <title lang="pt">Cinemaço</title>
+  </programme>
+  <programme start="20200810021900 -0300" stop="20200810040000 -0300" channel="Globo Sp">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200810040000 -0300" stop="20200810060000 -0300" channel="Globo Sp">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200810060000 -0300" stop="20200810083000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia São Paulo</title>
+  </programme>
+  <programme start="20200810083000 -0300" stop="20200810100000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200810100000 -0300" stop="20200810120000 -0300" channel="Globo Sp">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200810120000 -0300" stop="20200810130000 -0300" channel="Globo Sp">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20200810130000 -0300" stop="20200810132500 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200810132500 -0300" stop="20200810145600 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200810145600 -0300" stop="20200810162900 -0300" channel="Globo Sp">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200810162900 -0300" stop="20200810175000 -0300" channel="Globo Sp">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200810175000 -0300" stop="20200810181700 -0300" channel="Globo Sp">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200810181700 -0300" stop="20200810190000 -0300" channel="Globo Sp">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200810190000 -0300" stop="20200810193100 -0300" channel="Globo Sp">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20200810193100 -0300" stop="20200810203000 -0300" channel="Globo Sp">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200810203000 -0300" stop="20200810213600 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200810213600 -0300" stop="20200810222100 -0300" channel="Globo Sp">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200810222100 -0300" stop="20200810235600 -0300" channel="Globo Sp">
+    <title lang="pt">Tela Quente</title>
+  </programme>
+  <programme start="20200810235600 -0300" stop="20200811005100 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200811005100 -0300" stop="20200811013000 -0300" channel="Globo Sp">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200811013000 -0300" stop="20200811021500 -0300" channel="Globo Sp">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200811021500 -0300" stop="20200811040000 -0300" channel="Globo Sp">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200811040000 -0300" stop="20200811060000 -0300" channel="Globo Sp">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200811060000 -0300" stop="20200811083000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia São Paulo</title>
+  </programme>
+  <programme start="20200811083000 -0300" stop="20200811100000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200811100000 -0300" stop="20200811120000 -0300" channel="Globo Sp">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200811120000 -0300" stop="20200811130000 -0300" channel="Globo Sp">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20200811130000 -0300" stop="20200811132500 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200811132500 -0300" stop="20200811145600 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200811145600 -0300" stop="20200811162600 -0300" channel="Globo Sp">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200811162600 -0300" stop="20200811174800 -0300" channel="Globo Sp">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200811174800 -0300" stop="20200811181800 -0300" channel="Globo Sp">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200811181800 -0300" stop="20200811190000 -0300" channel="Globo Sp">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200811190000 -0300" stop="20200811193100 -0300" channel="Globo Sp">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20200811193100 -0300" stop="20200811203000 -0300" channel="Globo Sp">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200811203000 -0300" stop="20200811213800 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200811213800 -0300" stop="20200811223900 -0300" channel="Globo Sp">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200811223900 -0300" stop="20200811231600 -0300" channel="Globo Sp">
+    <title lang="pt">Cine Holliúdy</title>
+  </programme>
+  <programme start="20200811231600 -0300" stop="20200812002000 -0300" channel="Globo Sp">
+    <title lang="pt">Tapas &amp; Beijos</title>
+  </programme>
+  <programme start="20200812002000 -0300" stop="20200812011500 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200812011500 -0300" stop="20200812015400 -0300" channel="Globo Sp">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200812015400 -0300" stop="20200812024000 -0300" channel="Globo Sp">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200812024000 -0300" stop="20200812040000 -0300" channel="Globo Sp">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200812040000 -0300" stop="20200812060000 -0300" channel="Globo Sp">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200812060000 -0300" stop="20200812083000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia São Paulo</title>
+  </programme>
+  <programme start="20200812083000 -0300" stop="20200812100000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200812100000 -0300" stop="20200812120000 -0300" channel="Globo Sp">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200812120000 -0300" stop="20200812130000 -0300" channel="Globo Sp">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20200812130000 -0300" stop="20200812132500 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200812132500 -0300" stop="20200812145600 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200812145600 -0300" stop="20200812164900 -0300" channel="Globo Sp">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200812164900 -0300" stop="20200812173200 -0300" channel="Globo Sp">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200812173200 -0300" stop="20200812180000 -0300" channel="Globo Sp">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200812180000 -0300" stop="20200812183700 -0300" channel="Globo Sp">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200812183700 -0300" stop="20200812190700 -0300" channel="Globo Sp">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20200812190700 -0300" stop="20200812200000 -0300" channel="Globo Sp">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200812200000 -0300" stop="20200812203500 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200812203500 -0300" stop="20200812213000 -0300" channel="Globo Sp">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200812213000 -0300" stop="20200812233000 -0300" channel="Globo Sp">
+    <title lang="pt">Futebol 2020</title>
+  </programme>
+  <programme start="20200812233000 -0300" stop="20200813002400 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal da Globo</title>
+  </programme>
+  <programme start="20200813002400 -0300" stop="20200813010300 -0300" channel="Globo Sp">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20200813010300 -0300" stop="20200813014900 -0300" channel="Globo Sp">
+    <title lang="pt">Máquina Mortífera</title>
+  </programme>
+  <programme start="20200813014900 -0300" stop="20200813040000 -0300" channel="Globo Sp">
+    <title lang="pt">Corujão</title>
+  </programme>
+  <programme start="20200813040000 -0300" stop="20200813060000 -0300" channel="Globo Sp">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20200813060000 -0300" stop="20200813083000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia São Paulo</title>
+  </programme>
+  <programme start="20200813083000 -0300" stop="20200813100000 -0300" channel="Globo Sp">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20200813100000 -0300" stop="20200813120000 -0300" channel="Globo Sp">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+  </programme>
+  <programme start="20200813120000 -0300" stop="20200813130000 -0300" channel="Globo Sp">
+    <title lang="pt">SP1</title>
+  </programme>
+  <programme start="20200813130000 -0300" stop="20200813132500 -0300" channel="Globo Sp">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200813132500 -0300" stop="20200813145600 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20200813145600 -0300" stop="20200813162800 -0300" channel="Globo Sp">
+    <title lang="pt">Sessão da Tarde</title>
+  </programme>
+  <programme start="20200813162800 -0300" stop="20200813174900 -0300" channel="Globo Sp">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20200813174900 -0300" stop="20200813181700 -0300" channel="Globo Sp">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20200813181700 -0300" stop="20200813190200 -0300" channel="Globo Sp">
+    <title lang="pt">Novo Mundo</title>
+  </programme>
+  <programme start="20200813190200 -0300" stop="20200813193200 -0300" channel="Globo Sp">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20200813193200 -0300" stop="20200813203000 -0300" channel="Globo Sp">
+    <title lang="pt">Totalmente Demais</title>
+  </programme>
+  <programme start="20200813203000 -0300" stop="20200813213900 -0300" channel="Globo Sp">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20200813213900 -0300" stop="20200813224000 -0300" channel="Globo Sp">
+    <title lang="pt">Fina Estampa</title>
+  </programme>
+  <programme start="20200813224000 -0300" stop="20200813233800 -0300" channel="Globo Sp">
+    <title lang="pt">Hebe</title>
+  </programme>
+  <programme start="20200813233800 -0300" stop="20200814002200 -0300" channel="Globo Sp">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
   </programme>
 </tv>
